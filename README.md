@@ -1,9 +1,8 @@
 # NLP Assignment – Regex, BPE, Bayes Rule, Tokenization
 
-Student Name: Rishik  
-Course: NLP  
-Instructor: [Instructor Name]  
-Date: [Submission Date]
+Student Name: Rishik Vardhan Reddy Ummenthala
+700777149
+Course: NLP   
 
 ## Contents
 
